@@ -149,4 +149,14 @@ a:hover {
   .hero_p {
     font-size: 1.5rem;
   }
+   .hero {
+    height: 50vh;
+    width: 100%;
+  }
 }
+@media (max-width: 320px) {
+  .name {
+    font-size: 3rem;
+  }
+}
+
